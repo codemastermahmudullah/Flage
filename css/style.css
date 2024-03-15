@@ -1,0 +1,46 @@
+.parent{
+    height: 900px;
+    width: 100%;
+    
+}
+
+
+
+.hero{
+    height: 300px;
+    width: 550px;
+    background-color: darkgreen;
+    position: relative;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+}
+.star-hero{
+    height: 150px;
+    width: 150px;
+    background-color: red;
+    border-radius: 200px;
+    position: relative;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+
+}
+.name  {
+    display: flex;
+    justify-content: center;
+    margin-top: 575px;
+
+
+
+    
+
+
+    
+}
